@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_name,region,product_id,product_name,category,quantity,unit_price,discount,payment_method,total_sales,profit
+1,8/4/2023,1543,Tiffany Lucas,East,254,Tablet,Electronics,5.00,1115.14,0.1,Cash,5018.13,725.93
+2,8/31/2024,1686,Mary Wu,East,341,Laptop,Electronics,3.00,1080.11,0.05,PayPal,3078.31,445.31
+3,11/13/2023,1489,Katherine Howard,East,253,Keyboard,Electronics,1.00,545.65,0.07,PayPal,507.45,73.41
+4,12/7/2023,1936,Jason Wolfe,East,256,Laptop,Electronics,1.00,1404.47,0.22,Credit Card,1095.49,158.47
+5,12/20/2024,1344,Nathan Hoover,South,481,Laptop,Accessories,2.00,457.44,0.12,Credit Card,805.09,116.47
+6,11/1/2024,1602,Carla Ward,East,360,Laptop,Electronics,4.00,657.14,0.04,Cash,2523.42,365.04
+7,3/5/2024,1884,Amanda Robbins,West,479,Keyboard,Electronics,5.00,673.21,0.22,PayPal,2625.52,379.81
+8,2/5/2025,1683,Joanna Figueroa,East,408,Keyboard,Electronics,2.00,1083.06,0.26,Cash,1602.93,231.88
+9,2/7/2024,1830,William Hansen,West,296,Laptop,Electronics,3.00,258.12,0.16,PayPal,650.46,94.10
+10,7/25/2024,1650,Jonathan Reed,West,229,Keyboard,Electronics,1.00,380.82,0.23,Cash,293.23,42.42
+11,1/20/2025,1320,Jerry Hall,West,495,Laptop,Accessories,4.00,872.25,0.06,Cash,3279.66,474.44
+12,5/5/2024,1791,Rodney Freeman,South,254,Monitor,Accessories,1.00,1423.35,0.29,Bank Transfer,1010.58,146.19
+13,11/14/2024,1816,Patrick Thompson,East,466,Smartphone,Accessories,5.00,624.33,0.09,Bank Transfer,2840.70,410.94
+14,5/9/2024,1266,Carolyn Gonzalez,East,439,Tablet,Electronics,3.00,1363.73,0.23,Bank Transfer,3150.22,455.71
+15,1/1/2025,1925,Michael Turner,North,418,Laptop,Electronics,2.00,1353.60,0.19,PayPal,2192.83,317.22
+16,4/8/2024,1857,Victoria Jones,North,437,Laptop,Electronics,2.00,66.72,0.05,PayPal,126.77,18.34
+17,9/15/2023,1398,Samantha Gonzalez,East,494,Keyboard,Electronics,2.00,485.12,0.28,Bank Transfer,698.57,101.06
+18,5/14/2024,1573,Michael Gray,West,397,Laptop,Accessories,3.00,737.93,0.22,Cash,1726.76,249.79
+19,6/16/2023,1701,Frank Rogers,East,348,Smartphone,Accessories,4.00,462.58,0.01,Bank Transfer,1831.82,264.99
+20,6/3/2024,1561,Hector Wells,South,200,Headphones,Electronics,2.00,1464.94,0.11,PayPal,2607.59,377.22
+21,5/29/2024,1664,Steve Santiago,South,444,Headphones,Electronics,2.00,366.52,0.01,PayPal,725.71,104.98
+22,3/21/2023,1366,Timothy Keller,North,483,Smartphone,Electronics,2.00,922.36,0.08,Credit Card,1697.14,245.51
+23,9/27/2024,1486,Carl Weaver,West,346,Smartphone,Electronics,5.00,1186.93,0,Credit Card,5934.65,858.51
+24,10/22/2024,1301,Mary Carpenter,West,406,Monitor,Electronics,3.00,1037.50,0.01,Credit Card,3081.38,445.76
+25,7/7/2023,1324,Nancy Dixon,North,484,Headphones,Accessories,4.00,1177.90,0.06,Cash,4428.90,640.69
+26,7/26/2024,1753,John Cohen,West,495,Tablet,Electronics,2.00,1399.84,0.13,Cash,2435.72,352.35
+27,7/25/2023,1383,Brandi Huerta,North,276,Monitor,Accessories,3.00,1057.95,0.02,Credit Card,3110.37,449.95
+28,6/22/2024,1116,Joseph Bailey,South,449,Keyboard,Electronics,4.00,1137.80,0.24,Bank Transfer,3458.91,500.37
+29,11/14/2023,1746,Leslie Ingram,West,232,Smartphone,Accessories,3.00,254.52,0.28,Bank Transfer,549.76,79.53
+30,3/6/2025,1680,Brian Shepard,West,329,Keyboard,Electronics,1.00,628.86,0.17,Bank Transfer,521.95,75.51
+31,9/21/2024,1858,Megan Brown PhD,North,202,Laptop,Electronics,4.00,475.97,0.02,Cash,1865.80,269.91
+32,10/17/2024,1082,Gary Obrien,South,367,Keyboard,Accessories,1.00,127.95,0.05,Cash,121.55,17.58
+33,2/21/2024,1995,Michael Garcia,East,208,Smartphone,Electronics,2.00,1162.47,0.09,Cash,2115.70,306.06
+34,6/12/2024,1448,Sue Carroll,North,230,Headphones,Accessories,1.00,502.90,0.11,Credit Card,447.58,64.75
+35,11/21/2023,1472,Travis Schmidt,North,256,Monitor,Accessories,4.00,1432.92,0.06,Credit Card,5387.78,779.40
+36,8/9/2023,1790,Katrina Ball,East,261,Smartphone,Electronics,3.00,1127.98,0.01,Credit Card,3350.10,484.63
+37,4/15/2024,1744,Casey Moore,West,338,Headphones,Electronics,3.00,931.59,0.23,Credit Card,2151.97,311.31
+38,11/28/2024,1329,Kimberly Cohen,South,433,Smartphone,Accessories,2.00,1145.47,0.15,Cash,1947.30,281.70
+39,4/17/2024,1568,Darryl Perry,East,445,Tablet,Electronics,4.00,602.14,0.09,Cash,2191.79,317.07
+40,2/12/2024,1156,Brian Hogan,North,382,Headphones,Accessories,3.00,679.62,0.05,Cash,1936.92,280.20
+41,11/22/2023,1260,Michael Mathews,West,261,Monitor,Electronics,2.00,279.41,0.01,PayPal,553.23,80.03
+42,12/22/2023,1367,Danielle Watts,West,321,Laptop,Accessories,5.00,1158.61,0.27,Cash,4228.93,611.76
+43,1/15/2025,1370,Jorge Hoffman,South,333,Laptop,Accessories,1.00,1255.53,0.08,Bank Transfer,1155.09,167.10
+44,7/6/2024,1444,Kenneth Holmes,East,441,Smartphone,Accessories,2.00,877.69,0.29,Cash,1246.32,180.29
+45,2/1/2025,1982,Adriana Burke,South,201,Laptop,Electronics,5.00,330.60,0.25,Cash,1239.75,179.34
+46,1/12/2025,1154,Jared Washington,North,359,Tablet,Electronics,5.00,1480.27,0.24,Cash,5625.03,813.72
+47,3/16/2023,1603,Cheryl Campbell,South,453,Laptop,Electronics,5.00,207.54,0.22,Bank Transfer,809.41,117.09
+48,2/29/2024,1823,Tanya Williams,East,431,Monitor,Accessories,3.00,863.09,0.07,Credit Card,2408.02,348.35
+49,6/15/2024,1554,Mr. Larry Bradford DDS,West,362,Headphones,Accessories,3.00,178.28,0.07,Bank Transfer,497.40,71.95
+50,10/19/2023,1314,John Valentine,South,336,Laptop,Accessories,3.00,989.22,0.27,Cash,2166.39,313.39
+51,12/17/2023,1341,Lori Freeman,North,434,Smartphone,Electronics,2.00,1491.20,0.05,PayPal,2833.28,409.87
+52,7/28/2024,1686,Benjamin Rodriguez,East,310,Tablet,Electronics,5.00,793.68,0.11,Bank Transfer,3531.88,510.93
+53,5/2/2023,1343,Justin Collins,West,334,Headphones,Accessories,4.00,136.66,0.15,Cash,464.64,67.22
+54,10/23/2024,1722,John Martin,East,270,Headphones,Electronics,2.00,469.93,0.22,Cash,733.09,106.05
+55,8/2/2024,1636,Steven Silva,East,403,Tablet,Electronics,5.00,297.18,0.23,Credit Card,1144.14,165.51
+56,2/11/2024,1604,Jorge Herrera,West,362,Tablet,Accessories,5.00,940.57,0.12,Bank Transfer,4138.51,598.68
+57,2/20/2024,1800,Jessica Dodson,North,386,Laptop,Electronics,2.00,76.24,0.2,Credit Card,121.98,17.65
+58,1/20/2024,1736,Gina Yang,South,318,Headphones,Electronics,3.00,744.08,0.12,PayPal,1964.37,284.17
+59,1/6/2025,1468,Dawn Reyes,South,421,Smartphone,Electronics,1.00,141.70,0.17,Cash,117.61,17.01
+60,8/15/2024,1038,Dr. Kirsten Gray,East,483,Keyboard,Accessories,1.00,1025.40,0.22,Cash,799.81,115.70
+61,8/21/2023,1809,Erin Benson,East,381,Keyboard,Accessories,3.00,971.63,0.13,PayPal,2535.95,366.85
+62,12/13/2023,1791,Anthony Weaver,North,267,Laptop,Electronics,5.00,301.69,0.12,Credit Card,1327.44,192.03
+63,11/3/2024,1180,Mr. William Logan,East,401,Laptop,Electronics,4.00,1050.45,0.22,Credit Card,3277.40,474.11
+64,2/19/2024,1920,Monica Howell,South,450,Laptop,Accessories,5.00,1273.73,0.14,PayPal,5477.04,792.32
+65,4/27/2023,1707,Richard Hicks,South,330,Smartphone,Accessories,5.00,897.31,0.14,Credit Card,3858.43,558.17
+66,4/13/2023,1535,William Medina,North,448,Tablet,Accessories,3.00,457.64,0.2,Cash,1098.34,158.89
+67,7/27/2023,1287,Brittany Hill,North,441,Keyboard,Electronics,5.00,1154.18,0.03,Bank Transfer,5597.77,809.78
+68,7/21/2023,1808,Sarah Hood,West,375,Smartphone,Electronics,5.00,218.47,0.22,PayPal,852.03,123.26
+69,12/22/2023,1947,Michael Rose,East,368,Keyboard,Accessories,5.00,366.28,0.24,PayPal,1391.86,201.35
+70,2/19/2024,1673,Cameron Murray,West,293,Tablet,Accessories,1.00,1151.84,0,PayPal,1151.84,166.63
+71,7/9/2024,1861,Kathryn Marsh,East,256,Laptop,Electronics,4.00,430.04,0.15,Cash,1462.14,211.51
+72,5/20/2023,1496,Cynthia Henderson,South,275,Headphones,Accessories,2.00,52.63,0.12,Bank Transfer,92.63,13.40
+73,3/14/2024,1101,Ashley Tyler DDS,North,297,Keyboard,Accessories,5.00,1296.62,0.22,Credit Card,5056.82,731.53
+74,1/26/2024,1483,Alexander Johnson,South,329,Headphones,Electronics,3.00,129.38,0.05,Cash,368.73,53.34
+75,7/27/2023,1143,Jose Braun,West,498,Smartphone,Electronics,4.00,886.56,0.23,PayPal,2730.60,395.01
+76,12/4/2023,1191,Leah Jackson,South,402,Monitor,Accessories,4.00,1432.06,0.03,Bank Transfer,5556.39,803.80
+77,4/23/2023,1752,Harry Barnes,North,467,Tablet,Accessories,1.00,92.26,0.1,Bank Transfer,83.03,12.01
+78,2/4/2024,1434,Brandi Martin,South,289,Keyboard,Electronics,1.00,1260.04,0.1,Bank Transfer,1134.04,164.05
+79,1/28/2024,1884,Todd White,South,237,Laptop,Electronics,2.00,460.02,0.19,Bank Transfer,745.23,107.81
+80,11/22/2023,1209,Susan Joseph,South,440,Laptop,Accessories,5.00,74.98,0.11,Cash,333.66,48.27
+81,10/4/2023,1921,Richard Davis,South,499,Keyboard,Electronics,4.00,1395.42,0.29,PayPal,3962.99,573.29
+82,7/4/2024,1665,Robert Hill,North,462,Keyboard,Electronics,1.00,530.07,0.06,Bank Transfer,498.27,72.08
+83,12/14/2023,1690,Laura Clayton,West,224,Headphones,Accessories,5.00,444.11,0.07,Credit Card,2065.11,298.74
+84,11/18/2024,1867,Samuel Fuentes,North,318,Headphones,Accessories,2.00,652.03,0.25,PayPal,978.05,141.49
+85,6/17/2024,1424,Kevin Terry,East,433,Monitor,Electronics,3.00,1205.25,0.24,Credit Card,2747.97,397.52
+86,6/22/2024,1911,Michelle Mayer,South,221,Smartphone,Electronics,1.00,1049.81,0.23,Credit Card,808.35,116.94
+87,8/3/2024,1830,Traci Harper,South,362,Laptop,Accessories,4.00,755.21,0.13,Cash,2628.13,380.19
+88,10/26/2023,1794,Michael Mcintyre,West,280,Monitor,Accessories,1.00,1092.46,0.25,Bank Transfer,819.35,118.53
+89,9/29/2024,1419,Dakota Mitchell,West,417,Smartphone,Accessories,2.00,672.05,0.23,Bank Transfer,1034.96,149.72
+90,9/19/2023,1358,Corey Archer,West,312,Tablet,Electronics,1.00,389.09,0.22,PayPal,303.49,43.90
+91,3/23/2023,1795,Regina Gardner,South,431,Keyboard,Accessories,1.00,1022.95,0.24,Bank Transfer,777.44,112.47
+92,8/22/2024,1679,William Mahoney,East,395,Smartphone,Electronics,2.00,428.90,0.16,PayPal,720.55,104.24
+93,1/29/2025,1183,Edward Flores,South,321,Smartphone,Electronics,5.00,800.23,0.22,Cash,3120.90,451.47
+94,11/10/2024,1474,Andrew Gibson,South,341,Headphones,Accessories,1.00,303.38,0.02,Credit Card,297.31,43.01
+95,11/26/2024,1298,Vincent Reeves,South,385,Monitor,Electronics,2.00,1118.91,0.05,Credit Card,2125.93,307.54
+96,5/30/2023,1915,Stephen Zamora,West,404,Tablet,Electronics,1.00,635.71,0.27,Cash,464.07,67.13
+97,10/12/2023,1842,Valerie Leon,East,295,Smartphone,Accessories,5.00,743.60,0.02,PayPal,3643.64,527.09
+98,7/1/2023,1247,Jeanette Keith,North,238,Tablet,Accessories,5.00,386.54,0.25,Bank Transfer,1449.53,209.69
+99,1/26/2024,1029,Patricia Hall,East,214,Smartphone,Accessories,1.00,1151.72,0.12,Credit Card,1013.51,146.62
+100,3/25/2023,1935,Gavin Richard,South,269,Headphones,Electronics,1.00,980.69,0.27,Credit Card,715.90,103.56
+101,3/28/2024,1663,Robert Rogers,South,235,Keyboard,Accessories,5.00,1004.61,0.15,PayPal,4269.59,617.64
+102,3/8/2024,1361,Michael Turner,East,487,Tablet,Accessories,5.00,668.83,0.21,Bank Transfer,2641.88,382.18
+103,12/15/2024,1745,Frances Fisher,North,248,Headphones,Accessories,3.00,1279.26,0.16,Credit Card,3223.74,466.35
+104,2/29/2024,1534,Dennis Burnett,West,293,Laptop,Electronics,3.00,675.17,0.2,Bank Transfer,1620.41,234.41
+105,9/9/2024,1081,Sarah Jarvis,South,491,Monitor,Accessories,2.00,907.84,0.3,Bank Transfer,1270.98,183.86
+106,10/12/2023,1538,Christopher Buchanan,West,301,Tablet,Electronics,5.00,54.55,0.24,Credit Card,207.29,29.99
+107,1/12/2024,1862,Dr. Douglas Johnson MD,North,454,Smartphone,Accessories,1.00,342.47,0.25,Bank Transfer,256.85,37.16
+108,7/21/2023,1393,Jessica Clark,East,381,Tablet,Accessories,4.00,906.20,0.25,Cash,2718.60,393.28
+109,11/7/2024,1288,Kevin Carlson Jr.,West,458,Laptop,Accessories,1.00,65.60,0.25,PayPal,49.20,7.12
+110,3/5/2024,1277,Kara Brown,West,249,Headphones,Accessories,2.00,783.40,0.09,Cash,1425.79,206.26
+111,11/19/2024,1270,Logan Henderson,West,376,Smartphone,Electronics,1.00,1331.87,0.27,Credit Card,972.27,140.65
+112,11/14/2024,1695,Jennifer Bush,West,222,Smartphone,Accessories,3.00,853.54,0.24,Credit Card,1946.07,281.52
+113,2/6/2024,1275,Matthew Lee,South,214,Tablet,Electronics,2.00,580.40,0.08,Credit Card,1067.94,154.49
+114,6/19/2023,1962,Aaron Williams,South,272,Tablet,Electronics,5.00,520.97,0.05,PayPal,2474.61,357.98
+115,7/10/2024,1271,Hannah Garrett,West,289,Tablet,Electronics,3.00,1184.78,0.03,Cash,3447.71,498.75
+116,3/8/2024,1250,Mark Ray,East,413,Smartphone,Electronics,4.00,592.45,0.24,Bank Transfer,1801.05,260.54
+117,7/16/2023,1363,Lisa Barker,West,449,Headphones,Accessories,2.00,697.87,0.09,PayPal,1270.12,183.74
+118,10/22/2024,1304,Kelly Christian,North,311,Smartphone,Accessories,3.00,1028.04,0.08,Cash,2837.39,410.46
+119,11/21/2023,1713,Audrey Cowan,South,242,Monitor,Electronics,2.00,674.32,0.04,PayPal,1294.69,187.29
+120,2/29/2024,1825,Maria Wolfe,North,320,Headphones,Electronics,5.00,259.51,0.19,Cash,1051.02,152.04
+121,10/16/2023,1299,Brandon Austin,West,429,Monitor,Electronics,1.00,861.09,0.05,Bank Transfer,818.04,118.34
+122,7/9/2023,1694,April Pierce,West,404,Tablet,Electronics,5.00,1293.05,0.07,Credit Card,6012.68,869.80
+123,7/26/2024,1168,Craig Galloway,South,284,Laptop,Accessories,4.00,1028.00,0.18,Credit Card,3371.84,487.77
+124,4/13/2024,1760,Lindsey Ritter,East,459,Headphones,Accessories,1.00,1079.03,0.05,Cash,1025.08,148.29
+125,6/4/2023,1791,Dr. Lisa Lynch,East,464,Tablet,Electronics,4.00,1251.22,0.23,Cash,3853.76,557.49
+126,3/9/2025,1862,John Cantrell,South,422,Laptop,Accessories,3.00,879.16,0.01,Credit Card,2611.11,377.73
+127,9/19/2024,1054,Jacob Blake MD,South,385,Monitor,Electronics,5.00,1003.12,0.01,PayPal,4965.44,718.31
+128,8/2/2023,1153,Cathy Randolph,South,201,Monitor,Accessories,1.00,1104.94,0.21,Credit Card,872.90,126.28
+129,2/11/2025,1939,Gail Day,South,379,Smartphone,Electronics,4.00,892.51,0.24,Cash,2713.23,392.50
+130,3/30/2023,1840,Deanna Smith,North,320,Tablet,Accessories,4.00,84.53,0.11,Credit Card,300.93,43.53
+131,8/12/2023,1303,Michelle Hernandez,South,331,Tablet,Accessories,4.00,1461.56,0.01,Cash,5787.78,837.27
+132,5/3/2023,1375,Kathleen Potter DVM,West,401,Tablet,Accessories,3.00,900.89,0.1,Bank Transfer,2432.40,351.87
+133,10/1/2023,1876,Lisa Hines,West,419,Tablet,Electronics,1.00,595.00,0.16,Credit Card,499.80,72.30
+134,11/10/2024,1550,Jennifer Castaneda,West,288,Headphones,Electronics,4.00,180.15,0.19,Cash,583.69,84.44
+135,2/11/2025,1584,Mindy Clements,South,261,Monitor,Electronics,4.00,1209.05,0.03,Cash,4691.11,678.62
+136,9/15/2024,1319,April Gray,West,402,Tablet,Electronics,5.00,396.88,0.24,Cash,1508.14,218.17
+137,3/22/2023,1560,Jeff Decker,East,357,Keyboard,Electronics,4.00,976.83,0.11,Bank Transfer,3477.51,503.06
+138,5/27/2024,1942,Roger Johnson,West,417,Keyboard,Accessories,5.00,1216.10,0.02,Cash,5958.89,862.02
+139,4/21/2024,1722,Clarence Serrano,East,326,Monitor,Electronics,1.00,309.43,0.03,Credit Card,300.15,43.42
+140,1/30/2024,1436,Lisa Pierce,South,429,Smartphone,Accessories,3.00,1183.82,0.07,Bank Transfer,3302.86,477.80
+141,8/30/2024,1394,Allison Carlson,South,296,Headphones,Electronics,3.00,1278.26,0.21,Bank Transfer,3029.48,438.25
+142,1/25/2025,1236,Melissa Morgan,North,223,Smartphone,Electronics,2.00,1382.13,0.07,Cash,2570.76,371.89
+143,3/19/2024,1717,Debbie Parker,North,206,Headphones,Accessories,2.00,1128.12,0.2,Bank Transfer,1804.99,261.11
+144,9/17/2024,1950,William Garner,North,371,Tablet,Accessories,1.00,807.67,0.07,PayPal,751.13,108.66
+145,8/16/2023,1646,Tara Bishop,North,288,Headphones,Accessories,5.00,259.28,0.25,Bank Transfer,972.30,140.65
+146,3/8/2025,1413,Phillip Maynard,South,232,Tablet,Accessories,1.00,981.08,0.08,PayPal,902.59,130.57
+147,12/4/2023,1115,Cody Mann,South,491,Smartphone,Electronics,3.00,1207.89,0.11,Cash,3225.07,466.54
+148,10/11/2024,1733,Andrew Lin,North,480,Keyboard,Accessories,5.00,773.10,0.2,Bank Transfer,3092.40,447.35
+149,12/5/2023,1048,Katie Hernandez,North,458,Keyboard,Accessories,3.00,976.63,0.14,Bank Transfer,2519.71,364.50
+150,2/23/2024,1400,Jeremy Gibson,West,213,Monitor,Electronics,1.00,1482.92,0.24,Bank Transfer,1127.02,163.04
+151,4/21/2024,1231,Gregory Brown,South,481,Keyboard,Accessories,4.00,477.89,0.09,Credit Card,1739.52,251.64
+152,5/4/2024,1366,Daniel Lee,South,475,Headphones,Electronics,2.00,945.81,0.03,Bank Transfer,1834.87,265.43
+153,4/3/2024,1774,Ronald Williams MD,North,403,Smartphone,Accessories,4.00,1057.17,0.23,PayPal,3256.08,471.03
+154,4/12/2024,1047,Teresa Gonzalez,East,204,Monitor,Electronics,2.00,92.15,0.14,Bank Transfer,158.50,22.93
+155,8/27/2023,1137,Michele Brown,South,365,Headphones,Accessories,2.00,1086.28,0.28,Bank Transfer,1564.24,226.29
+156,9/12/2024,1682,Robin Robinson,East,379,Keyboard,Accessories,3.00,284.93,0.23,Cash,658.19,95.21
+157,7/5/2023,1651,Cameron Garcia,West,295,Keyboard,Accessories,4.00,1357.68,0.26,Cash,4018.73,581.36
+158,5/18/2024,1443,Mario Sanchez,South,446,Laptop,Accessories,2.00,1490.91,0.13,Cash,2594.18,375.28
+159,9/17/2024,1940,John Jackson,South,420,Smartphone,Electronics,1.00,318.89,0.11,Cash,283.81,41.06
+160,8/22/2023,1330,Alicia Vargas MD,East,432,Smartphone,Electronics,3.00,679.87,0.22,Bank Transfer,1590.90,230.14
+161,8/21/2023,1650,Christopher Foley,West,323,Laptop,Electronics,4.00,1161.80,0.23,PayPal,3578.34,517.65
+162,12/1/2023,1278,Sharon Chang,South,428,Laptop,Electronics,3.00,773.27,0.1,Cash,2087.83,302.03
+163,1/1/2024,1271,Kevin Patel,East,245,Tablet,Electronics,5.00,134.47,0.29,Cash,477.37,69.06
+164,1/24/2024,1224,John Conner,North,445,Monitor,Accessories,5.00,574.67,0.16,Bank Transfer,2413.61,349.16
+165,12/16/2024,1914,Tony Jennings,East,330,Tablet,Electronics,2.00,266.46,0.16,Cash,447.65,64.76
+166,3/6/2024,1354,Donna Murphy,East,252,Headphones,Accessories,1.00,1344.41,0.06,PayPal,1263.75,182.82
+167,10/13/2023,1506,Amy Johnson,West,237,Keyboard,Electronics,5.00,331.86,0.21,Credit Card,1310.85,189.63
+168,8/2/2023,1166,Alexis Williams,East,299,Keyboard,Accessories,4.00,1049.52,0.15,PayPal,3568.37,516.20
+169,5/30/2023,1015,Joshua Lee,South,255,Laptop,Electronics,2.00,1038.99,0.28,Bank Transfer,1496.15,216.43
+170,5/5/2024,1910,William Rivas,South,412,Laptop,Accessories,4.00,1087.86,0.21,Credit Card,3437.64,497.29
+171,12/10/2024,1035,Christopher Brown,South,341,Laptop,Accessories,5.00,1471.83,0.03,Credit Card,7138.38,1032.65
+172,11/14/2024,1153,Adam Marshall,West,233,Headphones,Electronics,5.00,536.83,0.22,Cash,2093.64,302.87
+173,9/13/2024,1323,Melissa Knapp,South,355,Monitor,Electronics,4.00,1195.71,0.25,PayPal,3587.13,518.92
+174,6/18/2023,1916,Mr. Joel Conley Jr.,North,453,Headphones,Electronics,2.00,735.09,0,Credit Card,1470.18,212.68
+175,5/17/2023,1962,David Kramer DDS,North,344,Laptop,Accessories,2.00,1464.08,0.15,Credit Card,2488.94,360.05
+176,3/6/2025,1706,Eric Wright,South,475,Laptop,Electronics,4.00,83.58,0.25,Cash,250.74,36.27
+177,5/17/2024,1127,Victoria Thompson,South,351,Laptop,Accessories,1.00,1051.44,0.2,Bank Transfer,841.15,121.68
+178,12/13/2024,1686,Justin Payne,South,402,Laptop,Electronics,2.00,292.32,0.04,PayPal,561.25,81.19
+179,6/1/2024,1878,William Martin,North,418,Laptop,Electronics,3.00,1375.86,0.11,PayPal,3673.55,531.42
+180,9/8/2023,1150,Samantha Brown,East,458,Keyboard,Electronics,2.00,1450.16,0.07,PayPal,2697.30,390.19
+181,10/9/2023,1314,Kelly Davidson,North,478,Monitor,Accessories,5.00,624.54,0.03,Cash,3029.02,438.18
+182,7/4/2024,1543,Tamara Turner,South,351,Keyboard,Accessories,5.00,1211.46,0.2,Credit Card,4845.84,701.01
+183,7/7/2023,1138,Abigail Graham,West,300,Monitor,Electronics,4.00,348.82,0.04,Credit Card,1339.47,193.77
+184,12/26/2023,1049,Brittany Washington DVM,East,300,Smartphone,Electronics,2.00,1342.54,0.28,Bank Transfer,1933.26,279.67
+185,10/1/2023,1313,George Chapman,West,384,Laptop,Electronics,1.00,116.43,0.27,PayPal,84.99,12.30
+186,7/17/2023,1392,Juan Martinez,North,244,Headphones,Electronics,1.00,946.59,0.2,PayPal,757.27,109.55
+187,9/8/2024,1643,Kaitlin Francis,West,399,Monitor,Electronics,3.00,528.35,0.25,Cash,1188.79,171.97
+188,6/6/2023,1025,Meredith Torres,South,364,Laptop,Accessories,4.00,811.49,0.07,Bank Transfer,3018.74,436.70
+189,8/11/2024,1539,Jessica Welch,South,457,Monitor,Electronics,3.00,409.33,0.2,PayPal,982.39,142.11
+190,5/23/2023,1400,Daniel Carpenter,South,410,Laptop,Accessories,4.00,1023.69,0.22,Bank Transfer,3193.91,462.04
+191,8/22/2023,1868,Kristina Daniels,East,209,Headphones,Accessories,3.00,997.15,0.17,Cash,2482.90,359.18
+192,8/27/2024,1876,William Richmond,East,293,Keyboard,Electronics,3.00,947.78,0.12,PayPal,2502.14,361.96
+193,1/7/2025,1677,Robert Glenn,South,441,Monitor,Electronics,5.00,1080.48,0.14,Bank Transfer,4646.06,672.11
+194,12/7/2023,1662,Mr. Brian Wilson,North,327,Headphones,Electronics,3.00,444.00,0.21,Credit Card,1052.28,152.22
+195,10/3/2024,1743,Michael Black,West,289,Keyboard,Electronics,1.00,134.49,0.21,Credit Card,106.25,15.37
+196,4/16/2024,1872,Kathleen Lowe,West,201,Keyboard,Accessories,4.00,1271.86,0.01,PayPal,5036.57,728.60
+197,4/17/2024,1832,Robert Jones,North,470,Tablet,Electronics,1.00,816.89,0.17,Credit Card,678.02,98.08
+198,4/15/2024,1018,Charles Lam MD,South,252,Monitor,Accessories,3.00,165.34,0.3,PayPal,347.21,50.23
+199,1/4/2024,1262,Margaret Robinson,South,367,Headphones,Electronics,4.00,1249.90,0.12,Bank Transfer,4399.65,636.46
+200,11/10/2023,1653,Dana Armstrong,West,281,Headphones,Electronics,2.00,94.13,0.16,Credit Card,158.14,22.88
+201,1/18/2025,1934,Chloe Carter,East,456,Tablet,Electronics,2.00,442.93,0.23,PayPal,682.11,98.68
+202,5/12/2023,1422,Taylor Wright,North,406,Headphones,Accessories,5.00,1492.68,0.19,Cash,6045.35,874.53
+203,8/3/2023,1754,Patricia Lamb,West,401,Laptop,Electronics,5.00,1483.71,0.21,Cash,5860.65,847.81
+204,7/1/2024,1913,Rhonda Anderson,West,209,Laptop,Electronics,5.00,312.16,0.09,Credit Card,1420.33,205.47
+205,2/25/2024,1969,Christina Davis,West,356,Keyboard,Accessories,2.00,518.50,0.09,PayPal,943.67,136.51
+206,5/6/2024,1453,Jamie Moore,West,397,Tablet,Accessories,1.00,1159.85,0.2,Credit Card,927.88,134.23
+207,8/27/2023,1231,Aaron Butler,South,377,Monitor,Accessories,4.00,108.19,0.19,Credit Card,350.54,50.71
+208,9/9/2023,1944,Joseph Watson,North,423,Smartphone,Electronics,2.00,760.14,0.11,Cash,1353.05,195.73
+209,1/9/2025,1941,Holly Smith,East,305,Keyboard,Electronics,4.00,226.53,0.21,PayPal,715.83,103.55
+210,3/9/2025,1562,Max Wilson,North,483,Tablet,Accessories,2.00,120.59,0.2,Bank Transfer,192.94,27.91
+211,4/13/2023,1640,Matthew Sanchez,North,469,Smartphone,Accessories,1.00,957.30,0.12,Bank Transfer,842.42,121.87
+212,4/15/2024,1664,Casey Anderson,East,325,Tablet,Accessories,1.00,274.15,0.13,Credit Card,238.51,34.50
+213,1/26/2025,1931,Juan Williams,West,423,Tablet,Electronics,5.00,524.85,0.2,Cash,2099.40,303.70
+214,7/19/2024,1849,Jason Ramirez,East,239,Smartphone,Accessories,2.00,516.16,0.28,Credit Card,743.27,107.52
+215,8/28/2023,1300,Melissa Fox,East,500,Headphones,Accessories,1.00,210.79,0.19,Bank Transfer,170.74,24.70
+216,4/7/2024,1510,Carol Miranda,East,421,Keyboard,Accessories,1.00,1114.08,0.06,PayPal,1047.24,151.49
+217,12/8/2023,1298,Crystal Smith,East,228,Keyboard,Accessories,1.00,1310.89,0.29,Bank Transfer,930.73,134.64
+218,5/13/2023,1160,Kevin Brown,West,326,Monitor,Accessories,4.00,717.35,0.3,Cash,2008.58,290.56
+219,10/26/2024,1693,Samantha Juarez,South,385,Tablet,Electronics,4.00,1334.33,0.28,Credit Card,3842.87,555.91
+220,4/12/2023,1065,Lisa Walker,South,360,Laptop,Accessories,3.00,88.40,0.01,PayPal,262.55,37.98
+221,6/28/2023,1650,Julie Becker,East,264,Headphones,Accessories,2.00,915.56,0.11,PayPal,1629.70,235.75
+222,6/20/2023,1892,Tracey Jackson,South,378,Laptop,Electronics,4.00,747.61,0.12,PayPal,2631.59,380.69
+223,10/11/2024,1918,Adriana Matthews,East,338,Laptop,Electronics,2.00,621.47,0.09,Bank Transfer,1131.08,163.62
+224,12/6/2024,1471,Robert Burke,East,451,Keyboard,Accessories,1.00,503.07,0.26,Bank Transfer,372.27,53.85
+225,2/24/2025,1412,Andrew Ramirez,North,246,Monitor,Accessories,1.00,1043.72,0.15,Credit Card,887.16,128.34
+226,3/11/2023,1858,April Shields,South,347,Smartphone,Accessories,1.00,563.67,0.15,Credit Card,479.12,69.31
+227,6/16/2023,1284,Andrew Manning,East,242,Tablet,Electronics,5.00,833.05,0.14,Credit Card,3582.12,518.19
+228,2/14/2024,1649,Gabriel Griffin,North,464,Tablet,Accessories,1.00,1146.14,0.16,PayPal,962.76,139.27
+229,8/21/2024,1017,Travis Hayes,North,260,Monitor,Electronics,5.00,1220.17,0.27,Cash,4453.62,644.27
+230,11/1/2023,1850,Thomas Mitchell,North,325,Keyboard,Accessories,5.00,1433.39,0.1,Credit Card,6450.26,933.10
+231,12/29/2023,1397,Karen Clark,East,236,Tablet,Electronics,4.00,1052.61,0.29,Bank Transfer,2989.41,432.45
+232,1/12/2025,1781,Roberta Berry,South,396,Tablet,Accessories,4.00,1042.15,0.2,PayPal,3334.88,482.43
+233,1/30/2024,1984,Dennis Huber,East,394,Laptop,Accessories,4.00,411.41,0.25,Bank Transfer,1234.23,178.55
+234,12/29/2023,1312,Christine Johnson,South,432,Monitor,Accessories,5.00,1071.26,0.03,Credit Card,5195.61,751.60
+235,10/19/2023,1868,Joseph Jackson,South,341,Tablet,Electronics,4.00,730.49,0.27,Bank Transfer,2133.03,308.57
+236,6/14/2023,1953,Kevin Luna DDS,West,360,Headphones,Electronics,1.00,727.71,0.28,Bank Transfer,523.95,75.80
+237,10/13/2024,1574,Tyler Obrien,West,267,Keyboard,Accessories,2.00,441.76,0.06,PayPal,830.51,120.14
+238,1/18/2025,1086,Calvin Garcia,East,374,Tablet,Accessories,3.00,784.78,0,Bank Transfer,2354.34,340.58
+239,9/21/2024,1922,Brianna Moses,North,389,Laptop,Accessories,1.00,1259.23,0.24,PayPal,957.01,138.44
+240,2/6/2025,1112,Melissa Smith,South,301,Tablet,Accessories,2.00,1171.69,0.26,PayPal,1734.10,250.86
+241,5/30/2024,1005,Anna Ramirez,West,296,Monitor,Electronics,3.00,953.80,0.27,Cash,2088.82,302.17
+242,3/23/2023,1964,Ryan Reed,South,286,Monitor,Accessories,1.00,986.43,0.23,Credit Card,759.55,109.88
+243,3/10/2025,1325,Maria Smith,North,475,Smartphone,Accessories,5.00,291.73,0.23,Bank Transfer,1123.16,162.48
+244,9/18/2023,1611,Nicholas Carter,East,226,Monitor,Accessories,4.00,688.59,0.03,PayPal,2671.73,386.50
+245,6/28/2024,1039,Kelly Durham MD,East,254,Tablet,Accessories,3.00,1285.73,0.04,Bank Transfer,3702.90,535.67
+246,6/18/2023,1274,Monica Lyons,West,326,Monitor,Accessories,5.00,1320.01,0.03,Bank Transfer,6402.05,926.13
+247,9/29/2023,1953,Kristin Price,North,403,Laptop,Accessories,5.00,1116.63,0.25,Bank Transfer,4187.36,605.75
+248,5/15/2023,1715,Ronald Taylor,West,481,Monitor,Accessories,4.00,1490.87,0.19,Cash,4830.42,698.77
+249,4/30/2024,1415,Erin Roberson,South,405,Smartphone,Accessories,2.00,1190.09,0.07,Cash,2213.57,320.22
+250,12/16/2023,1030,Frank Turner,South,433,Laptop,Accessories,2.00,316.44,0.22,Bank Transfer,493.65,71.41
+251,10/10/2023,1817,Ellen Miller,West,238,Laptop,Accessories,1.00,872.51,0.03,Credit Card,846.33,122.43
+252,10/8/2024,1084,David Turner,South,461,Tablet,Electronics,1.00,1198.33,0.14,Cash,1030.56,149.08
+253,5/10/2024,1731,Cynthia Meyer,West,439,Tablet,Accessories,5.00,902.21,0.15,Bank Transfer,3834.39,554.69
+254,2/21/2024,1959,Thomas Rivas,East,420,Headphones,Accessories,2.00,444.23,0.02,Cash,870.69,125.96
+255,10/26/2024,1073,Duane Gonzalez,South,446,Monitor,Electronics,2.00,529.93,0.23,Bank Transfer,816.09,118.06
+256,4/3/2023,1935,Bryan Carter,North,225,Tablet,Accessories,2.00,463.28,0.25,Cash,694.92,100.53
+257,3/27/2023,1969,William Kim,North,420,Monitor,Electronics,4.00,346.71,0.2,PayPal,1109.47,160.50
+258,1/20/2024,1708,Diana Foster,South,397,Keyboard,Electronics,2.00,148.05,0.01,Credit Card,293.14,42.41
+259,9/29/2023,1006,Wayne Fletcher,North,330,Headphones,Accessories,5.00,1093.92,0.26,Cash,4047.50,585.52
+260,1/30/2025,1672,Dustin Davis,South,479,Laptop,Accessories,4.00,309.50,0.2,Bank Transfer,990.40,143.27
+261,11/4/2023,1960,Joseph Davis,West,467,Tablet,Accessories,3.00,1326.23,0.24,Credit Card,3023.80,437.43
+262,8/12/2023,1303,Casey Herring,West,301,Keyboard,Electronics,4.00,798.14,0.21,Credit Card,2522.12,364.85
+263,4/9/2024,1835,Dillon Valenzuela,East,412,Keyboard,Accessories,5.00,580.70,0.11,PayPal,2584.12,373.82
+264,3/27/2024,1679,Deanna Collier,North,256,Monitor,Accessories,2.00,1375.83,0.22,Bank Transfer,2146.29,310.49
+265,2/18/2024,1719,Lisa Underwood,West,307,Laptop,Electronics,2.00,294.56,0.11,PayPal,524.32,75.85
+266,5/17/2023,1884,Austin Miller,East,413,Laptop,Electronics,1.00,1401.95,0.14,Credit Card,1205.68,174.41
+267,7/17/2024,1564,Denise Zuniga,East,473,Laptop,Accessories,4.00,210.19,0.09,Cash,765.09,110.68
+268,11/23/2023,1673,Robert Stone,South,404,Keyboard,Accessories,2.00,813.16,0.29,Bank Transfer,1154.69,167.04
+269,8/10/2024,1328,Rachel Sullivan,West,300,Monitor,Electronics,1.00,106.27,0.02,Credit Card,104.14,15.07
+270,11/19/2023,1108,Lisa Sims,West,226,Monitor,Electronics,4.00,610.52,0.18,Cash,2002.51,289.69
+271,4/20/2023,1231,Stephanie Kelley,East,310,Keyboard,Accessories,3.00,479.59,0.02,Bank Transfer,1409.99,203.97
+272,12/30/2024,1698,Courtney Duncan,West,247,Laptop,Electronics,5.00,362.52,0.23,Cash,1395.70,201.90
+273,9/24/2024,1178,Melissa Flores,West,487,Tablet,Electronics,3.00,1239.94,0.04,Cash,3571.03,516.59
+274,5/14/2023,1176,Mary Pena,East,398,Keyboard,Electronics,4.00,596.01,0.11,Cash,2121.80,306.94
+275,3/8/2025,1037,Angela Lopez,West,486,Smartphone,Electronics,5.00,439.74,0.01,Credit Card,2176.71,314.89
+276,3/24/2023,1098,Stephanie Foley,East,213,Laptop,Accessories,4.00,1314.52,0.29,Bank Transfer,3733.24,540.05
+277,12/22/2023,1329,Tonya Reynolds,South,473,Laptop,Accessories,4.00,338.85,0.24,Cash,1030.10,149.02
+278,6/29/2024,1588,Mrs. Michelle Sanchez,South,341,Keyboard,Accessories,5.00,1497.93,0.25,Cash,5617.24,812.60
+279,3/24/2024,1536,Stephanie Buckley,West,394,Smartphone,Accessories,2.00,641.11,0.1,Credit Card,1154.00,166.94
+280,3/18/2024,1576,Nathaniel Bailey,South,251,Headphones,Accessories,1.00,85.02,0.01,Bank Transfer,84.17,12.18
+281,7/25/2023,1772,Jessica Dennis,East,441,Tablet,Accessories,2.00,1147.54,0.24,Cash,1744.26,252.33
+282,8/6/2024,1133,Juan Perkins,North,299,Keyboard,Electronics,1.00,1307.13,0.11,Credit Card,1163.35,168.29
+283,2/13/2024,1095,Joshua Perez,West,397,Keyboard,Electronics,5.00,549.81,0.18,Credit Card,2254.22,326.10
+284,1/4/2025,1184,Jasmin Vaughan,South,259,Laptop,Accessories,2.00,1466.60,0.23,PayPal,2258.56,326.73
+285,7/2/2024,1372,Tiffany Reyes,West,420,Headphones,Electronics,1.00,1395.03,0.28,Cash,1004.42,145.30
+286,5/5/2023,1918,Dr. Sarah Yang,West,258,Laptop,Electronics,1.00,928.50,0.11,PayPal,826.37,119.54
+287,7/25/2023,1969,Jeffrey Moore,South,309,Headphones,Accessories,1.00,1315.05,0.01,Cash,1301.90,188.33
+288,7/2/2024,1018,Timothy Williamson,North,301,Smartphone,Electronics,5.00,1173.24,0.08,Credit Card,5396.90,780.72
+289,7/14/2024,1163,Kelly Williams,South,213,Smartphone,Accessories,3.00,1382.81,0.08,Credit Card,3816.56,552.11
+290,9/12/2023,1134,Dana Cisneros,West,488,Smartphone,Accessories,3.00,1417.48,0.02,Bank Transfer,4167.39,602.86
+291,10/24/2024,1550,Dale Gilbert,North,220,Smartphone,Accessories,2.00,612.46,0.16,Credit Card,1028.93,148.85
+292,6/21/2023,1569,Joshua Pittman,East,211,Headphones,Accessories,5.00,530.78,0.29,Cash,1884.27,272.58
+293,4/5/2024,1596,Darin Garcia,North,481,Laptop,Accessories,4.00,1320.12,0.26,Cash,3907.56,565.27
+294,5/8/2023,1942,Lauren Reed,North,413,Laptop,Electronics,3.00,810.13,0.1,Cash,2187.35,316.43
+295,6/1/2024,1945,Kelsey Brown,West,427,Monitor,Accessories,2.00,1189.83,0.28,Credit Card,1713.36,247.86
+296,5/14/2023,1642,Robert Morse,North,303,Keyboard,Accessories,3.00,62.06,0.28,Cash,134.05,19.39
+297,7/10/2024,1909,Patricia Hansen,West,208,Keyboard,Accessories,3.00,971.16,0.02,PayPal,2855.21,413.04
+298,3/13/2023,1304,Jessica Walker,South,465,Smartphone,Electronics,5.00,1137.64,0.28,Credit Card,4095.50,592.46
+299,11/20/2024,1451,Natalie Moore,East,431,Headphones,Accessories,2.00,1354.33,0.2,Cash,2166.93,313.47
+300,6/25/2023,1893,Sarah Adams,South,246,Keyboard,Electronics,3.00,1168.21,0.01,Cash,3469.58,501.91
+301,6/25/2024,1961,Stephanie Newman,East,433,Keyboard,Accessories,3.00,1385.35,0.14,Credit Card,3574.20,517.05
+302,7/28/2023,1308,Eric Castro,South,225,Keyboard,Electronics,2.00,683.72,0.27,Bank Transfer,998.23,144.41
+303,5/31/2024,1262,Michael Smith,North,478,Laptop,Accessories,2.00,1004.87,0,Credit Card,2009.74,290.73
+304,4/16/2023,1287,Erica Sparks,East,274,Laptop,Electronics,1.00,1394.74,0.01,PayPal,1380.79,199.75
+305,4/15/2023,1987,David Blackburn,South,367,Laptop,Electronics,3.00,509.92,0.25,Credit Card,1147.32,165.97
+306,4/13/2024,1492,Casey Young,West,448,Keyboard,Electronics,1.00,682.52,0.28,Bank Transfer,491.41,71.09
+307,4/27/2023,1309,Laura Shaw,West,229,Monitor,Electronics,5.00,149.60,0.06,Cash,703.12,101.71
+308,10/31/2023,1205,Mrs. Kelsey Rivera,East,376,Smartphone,Accessories,1.00,1287.37,0.11,PayPal,1145.76,165.75
+309,9/17/2024,1854,Donna James,South,305,Smartphone,Accessories,4.00,1219.91,0.17,Credit Card,4050.10,585.89
+310,3/17/2023,1541,Tiffany Martin,North,298,Tablet,Accessories,4.00,1227.00,0.15,Bank Transfer,4171.80,603.50
+311,4/21/2023,1130,Donald Howell,South,496,Monitor,Electronics,3.00,1033.80,0.22,Bank Transfer,2419.09,349.95
+312,7/23/2024,1505,Taylor Chase,North,342,Laptop,Electronics,4.00,340.42,0.21,Cash,1075.73,155.62
+313,1/8/2025,1426,Heather Hayes,South,237,Headphones,Electronics,1.00,529.62,0.17,PayPal,439.58,63.59
+314,8/4/2023,1402,Jordan Moreno,West,242,Smartphone,Accessories,1.00,750.97,0.13,Credit Card,653.34,94.51
+315,4/24/2023,1580,Hunter Bryant,North,472,Headphones,Electronics,1.00,1418.70,0.28,PayPal,1021.46,147.77
+316,3/2/2025,1637,Timothy Walker,South,443,Tablet,Electronics,3.00,1451.35,0.19,PayPal,3526.78,510.19
+317,3/12/2024,1665,Julie Dalton,North,346,Keyboard,Electronics,4.00,754.19,0.21,Bank Transfer,2383.24,344.76
+318,12/24/2024,1597,Megan Martin,North,300,Smartphone,Electronics,2.00,1080.33,0.22,Cash,1685.31,243.80
+319,10/15/2023,1250,Heather Johnson DVM,North,284,Tablet,Electronics,4.00,1056.86,0.08,Bank Transfer,3889.24,562.62
+320,2/16/2024,1906,Heather Smith,South,383,Laptop,Accessories,2.00,861.18,0.22,Bank Transfer,1343.44,194.34
+321,4/26/2024,1475,Brian Miller,South,226,Keyboard,Accessories,3.00,710.96,0.1,Credit Card,1919.59,277.69
+322,7/12/2023,1505,Tonya Estes,South,457,Tablet,Electronics,2.00,369.58,0.02,Credit Card,724.38,104.79
+323,6/24/2024,1803,Derek Lee,South,232,Keyboard,Accessories,2.00,737.85,0.23,Bank Transfer,1136.29,164.38
+324,5/20/2024,1014,Allison Jones,East,472,Tablet,Accessories,3.00,1307.43,0.12,Cash,3451.62,499.32
+325,6/5/2023,1476,Kyle Ramirez,East,445,Tablet,Electronics,5.00,1469.96,0.2,PayPal,5879.84,850.59
+326,1/8/2025,1680,Jonathan Reilly,West,217,Laptop,Electronics,4.00,1215.30,0.09,Cash,4423.69,639.94
+327,6/3/2023,1553,Casey Gonzalez,South,406,Tablet,Electronics,4.00,989.51,0.29,Cash,2810.21,406.53
+328,8/19/2023,1439,Donald Johnson,East,226,Smartphone,Accessories,4.00,1279.46,0.06,PayPal,4810.77,695.93
+329,9/23/2023,1926,Elizabeth Cortez,South,385,Monitor,Electronics,1.00,179.69,0.25,PayPal,134.77,19.50
+330,9/30/2023,1884,Michael Gonzalez DDS,South,342,Headphones,Electronics,5.00,933.99,0.21,Credit Card,3689.26,533.69
+331,8/20/2024,1460,Patricia Harris,West,464,Smartphone,Electronics,1.00,111.04,0.02,Bank Transfer,108.82,15.74
+332,7/11/2023,1593,Stacy Lee,North,429,Laptop,Accessories,5.00,1147.44,0.06,Cash,5392.97,780.15
+333,6/21/2023,1226,Steven Cook,North,360,Smartphone,Accessories,1.00,163.69,0.09,Cash,148.96,21.55
+334,3/22/2023,1374,Gregory Williamson,East,370,Keyboard,Electronics,3.00,1236.84,0.12,Cash,3265.26,472.36
+335,12/24/2023,1193,Angela Diaz,East,342,Smartphone,Electronics,1.00,1479.66,0.15,PayPal,1257.71,181.94
+336,12/11/2023,1625,Scott Young,South,262,Smartphone,Accessories,1.00,484.70,0.19,Credit Card,392.61,56.80
+337,3/13/2024,1691,Elizabeth Strong,East,399,Keyboard,Accessories,1.00,1112.00,0.19,Credit Card,900.72,130.30
+338,10/6/2023,1245,Paul Williams,South,319,Keyboard,Electronics,5.00,1407.28,0.04,Cash,6754.94,977.18
+339,8/26/2023,1407,Robert Perkins,North,360,Keyboard,Accessories,4.00,1404.27,0.11,PayPal,4999.20,723.19
+340,12/2/2023,1743,Jennifer Fitzgerald,North,369,Keyboard,Electronics,1.00,1265.94,0.3,Cash,886.16,128.19
+341,5/23/2023,1050,Kelly Lewis,North,286,Headphones,Accessories,4.00,732.20,0.23,Cash,2255.18,326.24
+342,12/19/2023,1933,Sherry Hardy,East,461,Tablet,Electronics,4.00,276.35,0.28,Bank Transfer,795.89,115.13
+343,1/28/2025,1697,Michael Hall,East,249,Keyboard,Accessories,5.00,927.05,0.13,Bank Transfer,4032.67,583.37
+344,1/2/2025,1433,Brandon Warren,East,290,Headphones,Accessories,4.00,850.78,0.09,Credit Card,3096.84,447.99
+345,4/29/2023,1148,Larry Rogers,North,248,Tablet,Accessories,2.00,449.64,0.2,Credit Card,719.42,104.07
+346,10/17/2024,1498,Aaron Lin,West,381,Monitor,Electronics,4.00,277.03,0,Cash,1108.12,160.30
+347,12/14/2024,1428,Eduardo Smith,East,456,Laptop,Accessories,2.00,553.99,0.12,Credit Card,975.02,141.05
+348,5/29/2024,1227,Lori Hood,North,231,Monitor,Electronics,3.00,423.40,0.18,PayPal,1041.56,150.67
+349,12/2/2024,1799,Maria White,East,241,Smartphone,Accessories,5.00,868.31,0.16,Cash,3646.90,527.57
+350,5/6/2024,1749,Frank Johnson,North,213,Headphones,Electronics,1.00,576.31,0.04,Cash,553.26,80.03
+351,4/5/2024,1358,William Webb,West,366,Smartphone,Electronics,3.00,368.56,0.01,Cash,1094.62,158.35
+352,8/11/2024,1301,Amy Booth,South,343,Tablet,Accessories,5.00,712.19,0.03,Cash,3454.12,499.68
+353,6/20/2023,1128,Alison Manning,South,440,Laptop,Electronics,1.00,1043.69,0.13,Bank Transfer,908.01,131.35
+354,9/5/2024,1695,Bradley Reynolds,South,353,Monitor,Accessories,5.00,77.50,0.08,PayPal,356.50,51.57
+355,8/6/2024,1213,Jenna Brown,East,490,Keyboard,Electronics,2.00,1266.59,0.19,PayPal,2051.88,296.83
+356,8/31/2024,1736,Krystal Gilbert,South,472,Headphones,Electronics,1.00,751.06,0.11,PayPal,668.44,96.70
+357,11/20/2024,1647,Audrey Summers,West,271,Monitor,Electronics,3.00,966.48,0.02,Credit Card,2841.45,411.05
+358,7/19/2024,1074,Linda Guzman,South,203,Monitor,Accessories,2.00,540.44,0.27,Credit Card,789.04,114.14
+359,5/27/2023,1089,Lori Smith,East,413,Smartphone,Electronics,2.00,1336.61,0.25,Cash,2004.92,290.03
+360,4/11/2024,1550,Beth Dominguez,East,414,Tablet,Electronics,1.00,1033.88,0.26,Credit Card,765.07,110.68
+361,8/24/2023,1013,Holly Morrison,South,291,Monitor,Accessories,4.00,856.42,0.12,PayPal,3014.60,436.10
+362,12/28/2024,1427,Jennifer Wood,West,392,Tablet,Accessories,4.00,624.28,0.13,Cash,2172.49,314.28
+363,7/29/2023,1093,Stephen Nelson,East,482,Smartphone,Electronics,5.00,1356.98,0.02,PayPal,6649.20,961.88
+364,2/8/2025,1165,Paula Mendez,East,431,Monitor,Electronics,4.00,1043.68,0.03,Credit Card,4049.48,585.80
+365,7/5/2024,1868,Caleb Prince,South,331,Headphones,Electronics,3.00,230.30,0.21,Cash,545.81,78.96
+366,1/24/2025,1656,Emily Johnson,North,450,Keyboard,Electronics,4.00,56.21,0.17,PayPal,186.62,27.00
+367,12/16/2024,1597,Kelsey Patton,East,316,Monitor,Accessories,4.00,742.16,0.17,Credit Card,2463.97,356.44
+368,5/28/2023,1684,John Gomez,South,317,Keyboard,Accessories,3.00,1174.34,0.06,Cash,3311.64,479.07
+369,3/16/2023,1912,Jennifer Price,South,311,Tablet,Electronics,4.00,872.93,0.06,Bank Transfer,3282.22,474.81
+370,5/13/2024,1100,Lacey Munoz,West,407,Tablet,Accessories,3.00,1137.60,0.07,Credit Card,3173.90,459.14
+371,2/12/2025,1138,Manuel Roberts,South,207,Smartphone,Accessories,5.00,1150.15,0.2,Cash,4600.60,665.53
+372,6/5/2023,1881,Isaiah Andersen,South,421,Tablet,Electronics,1.00,1422.95,0.14,PayPal,1223.74,177.03
+373,12/3/2023,1505,Joshua Hernandez,North,415,Laptop,Electronics,4.00,1295.93,0.26,PayPal,3835.95,554.91
+374,2/17/2024,1720,Colleen Carter,North,349,Headphones,Electronics,4.00,328.19,0.2,Bank Transfer,1050.21,151.92
+375,10/5/2024,1260,Jennifer George,North,340,Smartphone,Electronics,1.00,292.45,0.28,PayPal,210.56,30.46
+376,1/24/2025,1602,Allison Camacho,South,386,Laptop,Accessories,3.00,1288.35,0.29,Credit Card,2744.19,396.98
+377,7/13/2024,1877,Martin Long,West,229,Laptop,Electronics,3.00,477.32,0.11,Credit Card,1274.44,184.36
+378,3/29/2023,1056,Jessica Golden,West,463,Headphones,Accessories,4.00,1110.36,0.21,Bank Transfer,3508.74,507.58
+379,7/17/2024,1842,Jacob Lopez,North,452,Tablet,Accessories,4.00,904.56,0.26,PayPal,2677.50,387.33
+380,6/4/2023,1980,Brian Ortiz,West,200,Keyboard,Accessories,4.00,868.45,0.29,Bank Transfer,2466.40,356.79
+381,11/6/2024,1589,Michelle Woodward,South,282,Keyboard,Accessories,5.00,472.66,0.3,Credit Card,1654.31,239.31
+382,1/1/2024,1090,Christopher Fleming,South,332,Laptop,Accessories,2.00,913.74,0.11,Cash,1626.46,235.29
+383,6/3/2024,1402,Melinda Harper,North,270,Laptop,Accessories,4.00,863.69,0.1,Cash,3109.28,449.79
+384,3/21/2023,1007,Chelsea Wheeler,East,449,Laptop,Electronics,5.00,800.63,0.27,Credit Card,2922.30,422.74
+385,8/18/2024,1480,Cassandra Nelson,South,367,Headphones,Accessories,3.00,1272.02,0.13,Credit Card,3319.97,480.27
+386,9/29/2023,1889,Megan Davis,South,311,Smartphone,Accessories,4.00,65.05,0.02,Bank Transfer,255.00,36.89
+387,1/1/2025,1809,Brian Irwin,South,256,Headphones,Accessories,1.00,332.72,0.17,Cash,276.16,39.95
+388,3/12/2024,1753,Scott Watson,East,279,Laptop,Electronics,5.00,831.98,0.07,Bank Transfer,3868.71,559.65
+389,3/5/2024,1800,Kayla Johnson,West,481,Headphones,Electronics,3.00,1157.86,0.11,Cash,3091.49,447.22
+390,7/4/2024,1998,Miranda Carter,North,212,Headphones,Accessories,4.00,1008.28,0.28,Credit Card,2903.85,420.07
+391,11/27/2023,1113,Michael Wagner,South,319,Keyboard,Accessories,1.00,65.53,0.09,Cash,59.63,8.63
+392,8/6/2024,1804,Brandi Parker,North,462,Headphones,Accessories,4.00,1478.41,0.02,Cash,5795.37,838.37
+393,4/17/2024,1100,Brandon Anderson,South,215,Laptop,Electronics,1.00,481.62,0,PayPal,481.62,69.67
+394,5/3/2024,1617,Lauren Walker,North,468,Monitor,Electronics,5.00,1379.68,0.25,Credit Card,5173.80,748.45
+395,12/23/2024,1967,Paula Ayala,South,203,Laptop,Electronics,1.00,191.27,0.22,Cash,149.19,21.58
+396,6/5/2023,1485,Robert Parker MD,South,214,Monitor,Electronics,3.00,759.64,0.22,Credit Card,1777.56,257.14
+397,6/19/2024,1742,Charlene Thompson,South,327,Keyboard,Accessories,1.00,769.67,0.27,Credit Card,561.86,81.28
+398,7/2/2024,1729,Timothy Quinn,South,390,Monitor,Electronics,2.00,1393.46,0.16,Bank Transfer,2341.01,338.65
+399,3/4/2025,1568,Marcus Lee,East,443,Monitor,Electronics,2.00,792.21,0.28,Bank Transfer,1140.78,165.03
+400,6/21/2023,1345,Samantha Dyer,North,231,Keyboard,Accessories,3.00,1030.26,0.12,PayPal,2719.89,393.46
+401,6/12/2024,1045,Caitlin Marshall,North,337,Headphones,Electronics,2.00,1398.68,0.05,Cash,2657.49,384.44
+402,10/8/2024,1136,William Smith,North,477,Monitor,Electronics,3.00,723.64,0.23,Credit Card,1671.61,241.82
+403,6/11/2024,1433,Julie Hamilton,East,317,Headphones,Accessories,3.00,706.65,0.04,Bank Transfer,2035.15,294.41
+404,11/7/2023,1328,Mckenzie Foster,North,285,Smartphone,Electronics,2.00,263.88,0.28,PayPal,379.99,54.97
+405,12/16/2023,1378,James Reeves,North,339,Monitor,Electronics,5.00,475.64,0.28,Credit Card,1712.30,247.70
+406,9/14/2023,1119,Tracey Dougherty,North,216,Tablet,Electronics,1.00,1181.07,0,Credit Card,1181.07,170.86
+407,6/20/2024,1374,Cathy Hooper,East,362,Keyboard,Electronics,4.00,1050.50,0.28,Cash,3025.44,437.66
+408,10/9/2023,1915,Tammie Howard,South,262,Headphones,Accessories,1.00,52.29,0.3,Cash,36.60,5.30
+409,5/30/2023,1629,Cynthia Moody,South,272,Monitor,Electronics,1.00,671.33,0.08,Bank Transfer,617.62,89.35
+410,2/24/2024,1084,Jessica Russo,West,494,Tablet,Accessories,1.00,876.09,0.17,Bank Transfer,727.15,105.19
+411,7/1/2023,1588,Sean Lopez,North,254,Smartphone,Electronics,5.00,1315.43,0.01,PayPal,6511.38,941.94
+412,8/22/2023,1072,Jason Powell,West,365,Keyboard,Electronics,3.00,677.53,0.11,Cash,1809.01,261.69
+413,4/13/2024,1401,Samuel Marquez,West,203,Monitor,Electronics,5.00,1088.52,0.23,Cash,4190.80,606.25
+414,10/27/2024,1037,Joel Lopez,South,490,Keyboard,Accessories,5.00,703.86,0.04,PayPal,3378.53,488.74
+415,6/20/2024,1952,Gwendolyn Macias,East,414,Laptop,Electronics,5.00,1163.93,0.3,Credit Card,4073.76,589.31
+416,8/16/2023,1568,Kimberly Frey,West,400,Keyboard,Accessories,4.00,844.33,0.29,Bank Transfer,2397.90,346.88
+417,7/8/2023,1240,Michelle Lewis,West,240,Smartphone,Accessories,3.00,441.21,0.07,Cash,1230.98,178.07
+418,12/7/2024,1681,William Ortega,East,405,Headphones,Electronics,4.00,316.32,0.25,Cash,948.96,137.28
+419,7/21/2023,1901,Kyle Murray,North,292,Laptop,Accessories,3.00,1211.93,0.04,Cash,3490.36,504.92
+420,7/30/2023,1899,Tami Haynes,East,249,Tablet,Electronics,4.00,1448.01,0.23,PayPal,4459.87,645.17
+421,8/27/2023,1467,Lucas Diaz,East,469,Tablet,Accessories,3.00,1279.28,0.16,PayPal,3223.79,466.36
+422,5/16/2023,1725,David Johnson II,North,334,Tablet,Accessories,4.00,1331.23,0.1,PayPal,4792.43,693.28
+423,3/14/2023,1202,Andrew Tran,East,487,Headphones,Electronics,4.00,202.53,0.16,Cash,680.50,98.44
+424,7/22/2023,1552,John Miller,South,441,Laptop,Accessories,2.00,1174.89,0.06,Bank Transfer,2208.79,319.53
+425,11/26/2023,1836,Danielle Scott,East,203,Laptop,Electronics,3.00,353.25,0.18,Credit Card,869.00,125.71
+426,1/19/2024,1451,Tina Lloyd,West,346,Tablet,Accessories,2.00,1142.83,0.23,Cash,1759.96,254.60
+427,12/23/2024,1544,Sean Forbes,East,463,Monitor,Accessories,5.00,268.71,0.26,Cash,994.23,143.83
+428,2/6/2024,1756,Chad Wilkinson,South,408,Headphones,Accessories,3.00,172.45,0.29,PayPal,367.32,53.14
+429,10/23/2023,1342,Justin Rogers,East,458,Tablet,Accessories,2.00,503.55,0.2,Bank Transfer,805.68,116.55
+430,7/31/2023,1817,Patrick Reed,South,424,Headphones,Accessories,5.00,63.42,0.19,Bank Transfer,256.85,37.16
+431,9/13/2024,1270,Andrew Lewis,West,200,Keyboard,Electronics,4.00,65.13,0.26,Bank Transfer,192.78,27.89
+432,5/20/2023,1526,Matthew Weiss,East,411,Keyboard,Accessories,3.00,953.81,0.13,Credit Card,2489.44,360.13
+433,1/22/2024,1423,Matthew Bradley,West,281,Monitor,Accessories,3.00,857.30,0.03,Credit Card,2494.74,360.89
+434,3/15/2023,1066,Tina Campbell,North,359,Headphones,Electronics,1.00,188.58,0.21,Credit Card,148.98,21.55
+435,4/2/2024,1124,John Ford,South,218,Monitor,Accessories,1.00,725.50,0.26,Credit Card,536.87,77.66
+436,1/11/2024,1785,James Ross,West,446,Monitor,Electronics,4.00,1139.75,0.14,Credit Card,3920.74,567.18
+437,6/8/2024,1269,Thomas Haley,West,255,Laptop,Electronics,3.00,205.26,0.17,PayPal,511.10,73.94
+438,10/17/2024,1697,Angela Cordova,North,331,Tablet,Accessories,3.00,615.41,0.16,PayPal,1550.83,224.35
+439,5/9/2023,1695,William Martinez,South,292,Tablet,Electronics,4.00,181.68,0.09,Cash,661.32,95.67
+440,10/13/2024,1896,Kathleen Shaw,South,333,Laptop,Accessories,5.00,546.96,0.28,Bank Transfer,1969.06,284.85
+441,2/25/2024,1050,Jeremy Wagner,North,208,Tablet,Accessories,3.00,1090.96,0.22,PayPal,2552.85,369.30
+442,8/10/2023,1611,James Morales,West,464,Monitor,Electronics,2.00,363.25,0.14,Cash,624.79,90.38
+443,4/13/2024,1601,Ashley Mccarty,West,476,Keyboard,Accessories,2.00,264.80,0.06,Cash,497.82,72.02
+444,8/9/2024,1036,Stephen Powers,West,347,Monitor,Accessories,4.00,417.27,0.11,Cash,1485.48,214.89
+445,5/17/2023,1589,Ryan Ayers,North,240,Tablet,Electronics,5.00,571.60,0.15,PayPal,2429.30,351.43
+446,11/26/2023,1406,Geoffrey Cummings,West,400,Smartphone,Electronics,2.00,1493.62,0.16,Cash,2509.28,363.00
+447,9/20/2023,1101,William Johnson,North,339,Keyboard,Accessories,2.00,622.25,0.17,Bank Transfer,1032.94,149.43
+448,10/30/2023,1329,Natasha Nguyen,West,200,Headphones,Accessories,2.00,536.85,0.2,Bank Transfer,858.96,124.26
+449,7/24/2024,1388,Kenneth Fisher,East,400,Monitor,Accessories,1.00,738.57,0.1,Credit Card,664.71,96.16
+450,7/26/2024,1100,William Morgan,East,200,Laptop,Accessories,3.00,1466.68,0.09,Bank Transfer,4004.04,579.23
+451,10/2/2024,1102,Joseph Conner,South,378,Laptop,Electronics,1.00,1196.51,0.26,Credit Card,885.42,128.09
+452,2/2/2024,1231,Linda Stokes,East,344,Keyboard,Accessories,1.00,728.07,0.05,PayPal,691.67,100.06
+453,5/25/2023,1214,John Williams,East,443,Monitor,Accessories,2.00,104.44,0.28,Cash,150.39,21.76
+454,5/25/2024,1137,James Gray,East,485,Tablet,Accessories,2.00,518.17,0.18,Credit Card,849.80,122.93
+455,3/5/2024,1956,Christopher Webb,South,491,Smartphone,Accessories,4.00,595.16,0.05,PayPal,2261.61,327.17
+456,10/14/2023,1978,Jamie Nguyen,West,496,Tablet,Electronics,2.00,1007.62,0.08,PayPal,1854.02,268.21
+457,8/6/2023,1675,Devin Tate,North,273,Headphones,Electronics,2.00,729.08,0.2,Bank Transfer,1166.53,168.75
+458,5/29/2024,1227,Patricia Sanders,North,492,Headphones,Electronics,1.00,1217.67,0.2,Credit Card,974.14,140.92
+459,8/5/2024,1768,Melissa Wright,South,360,Laptop,Electronics,2.00,571.16,0.17,Cash,948.13,137.16
+460,3/14/2023,1354,Lindsey Abbott DDS,West,202,Headphones,Electronics,4.00,1245.43,0.1,PayPal,4483.55,648.60
+461,5/23/2023,1942,Kelly Hall,East,391,Headphones,Accessories,5.00,1277.78,0.05,Cash,6069.45,878.02
+462,11/12/2023,1691,Ashley Richardson,West,250,Laptop,Electronics,5.00,1107.92,0.1,Credit Card,4985.64,721.23
+463,9/9/2024,1779,Emily Austin,North,403,Headphones,Accessories,3.00,76.76,0.17,PayPal,191.13,27.65
+464,9/3/2024,1307,Jon Mcguire,North,474,Monitor,Electronics,3.00,1399.67,0.12,Cash,3695.13,534.54
+465,12/12/2024,1148,Rose Smith,South,236,Monitor,Accessories,4.00,1063.57,0.2,Cash,3403.42,492.34
+466,3/11/2023,1660,Shawn Morales,North,282,Keyboard,Electronics,4.00,178.47,0.07,Cash,663.91,96.04
+467,6/10/2023,1425,Jennifer Monroe,North,230,Smartphone,Electronics,4.00,461.25,0.25,PayPal,1383.75,200.18
+468,1/16/2024,1908,Jose Sullivan,North,350,Laptop,Accessories,5.00,1101.96,0.11,Credit Card,4903.72,709.38
+469,9/20/2023,1187,Amy Durham,South,348,Headphones,Accessories,5.00,1021.05,0.21,Cash,4033.15,583.44
+470,4/13/2024,1313,Angela Roth,South,218,Monitor,Accessories,1.00,1328.19,0.25,Credit Card,996.14,144.10
+471,11/25/2023,1477,Juan Martin,East,489,Monitor,Electronics,1.00,821.89,0.01,Bank Transfer,813.67,117.71
+472,8/2/2024,1457,Lori Mcclure,West,490,Monitor,Accessories,5.00,948.17,0.12,PayPal,4171.95,603.52
+473,9/1/2024,1740,Sheri Park,South,333,Monitor,Electronics,3.00,741.87,0.21,PayPal,1758.23,254.35
+474,10/16/2024,1993,Cody Sawyer,West,300,Monitor,Electronics,5.00,699.40,0.24,Cash,2657.72,384.47
+475,9/10/2023,1980,Jodi Lam,South,259,Headphones,Accessories,5.00,185.53,0.18,Bank Transfer,760.67,110.04
+476,4/1/2024,1834,Dawn Coleman,West,213,Monitor,Accessories,5.00,162.19,0.12,Cash,713.64,103.24
+477,12/11/2023,1655,Ashley Perry,South,434,Tablet,Accessories,2.00,972.13,0.03,PayPal,1885.93,272.82
+478,3/21/2023,1613,Andre Miranda,West,224,Keyboard,Accessories,5.00,779.66,0.12,Bank Transfer,3430.50,496.26
+479,7/31/2023,1733,Carrie Smith,North,376,Tablet,Electronics,3.00,1123.41,0.15,Credit Card,2864.70,414.41
+480,3/6/2025,1853,Adriana Webb,North,239,Headphones,Accessories,1.00,526.48,0.1,Cash,473.83,68.55
+481,5/12/2023,1970,Martin Griffith,East,336,Monitor,Electronics,5.00,1066.78,0.06,PayPal,5013.87,725.31
+482,12/29/2023,1569,Jessica Adams,North,237,Laptop,Accessories,5.00,1361.42,0.07,Bank Transfer,6330.60,915.79
+483,3/10/2025,1849,Jennifer Chavez,South,497,Smartphone,Accessories,1.00,776.75,0.26,Credit Card,574.80,83.15
+484,3/22/2023,1177,Jean Gibson,North,266,Monitor,Electronics,3.00,948.61,0.3,Bank Transfer,1992.08,288.18
+485,2/29/2024,1488,Matthew Miller,West,393,Laptop,Electronics,5.00,1182.75,0.08,Cash,5440.65,787.05
+486,5/16/2024,1562,Wendy Hartman,North,277,Tablet,Accessories,1.00,1157.31,0.13,Cash,1006.86,145.65
+487,6/9/2024,1201,Christina Martinez,North,287,Smartphone,Accessories,1.00,706.34,0.06,PayPal,663.96,96.05
+488,9/5/2023,1614,Kelly Perez,South,416,Headphones,Electronics,2.00,645.88,0.27,Cash,942.98,136.41
+489,3/24/2024,1282,Elizabeth Campos,East,327,Smartphone,Electronics,5.00,732.53,0.19,PayPal,2966.75,429.17
+490,11/7/2024,1776,Billy Hughes,East,342,Smartphone,Electronics,2.00,985.25,0.17,Bank Transfer,1635.51,236.60
+491,5/18/2024,1723,Lauren Bailey,South,324,Headphones,Accessories,2.00,620.15,0.07,Cash,1153.48,166.86
+492,12/15/2024,1878,Justin Johns,South,311,Headphones,Electronics,4.00,71.58,0.03,Cash,277.73,40.18
+493,10/22/2023,1807,Tammy Shaw,West,341,Tablet,Accessories,1.00,217.22,0.2,Credit Card,173.78,25.14
+494,12/28/2024,1676,Lee Walsh,West,211,Headphones,Accessories,5.00,176.82,0.23,Cash,680.76,98.48
+495,10/18/2023,1354,Andrew Ferguson,West,445,Headphones,Accessories,3.00,620.76,0.02,Credit Card,1825.03,264.01
+496,6/3/2023,1825,Christine Robinson,West,382,Tablet,Electronics,4.00,1281.66,0.06,Bank Transfer,4819.04,697.13
+497,1/21/2024,1195,James Simpson,North,486,Laptop,Accessories,3.00,614.40,0.19,Bank Transfer,1492.99,215.98
+498,11/30/2023,1790,James Small,North,246,Smartphone,Accessories,5.00,908.98,0.2,PayPal,3635.92,525.98
+499,8/18/2023,1485,Joann Jenkins,South,233,Laptop,Electronics,1.00,1188.27,0.04,Credit Card,1140.74,165.02
+500,2/7/2024,1736,April Harper,West,485,Monitor,Accessories,4.00,874.42,0.26,Bank Transfer,2588.28,374.42
